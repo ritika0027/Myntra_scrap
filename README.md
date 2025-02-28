@@ -1,6 +1,5 @@
-****Myntra Purse Scraper****
+******Myntra Purse Scraper******
 
----
 
 **Overview**
 
